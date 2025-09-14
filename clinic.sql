@@ -1,5 +1,4 @@
 -- Create the database
-DROP DATABASE IF EXISTS ClinicBookingSystem;
 CREATE DATABASE ClinicBookingSystem;
 USE ClinicBookingSystem;
 
